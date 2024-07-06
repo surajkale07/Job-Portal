@@ -9,7 +9,7 @@ import "firebase/compat/storage";
 import "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBuDdAHul3rypXtzzxX9Jbx7BOohcQMKeE",
+  apiKey: "....",
   authDomain: "ariesjobportal.firebaseapp.com",
   projectId: "ariesjobportal",
   storageBucket: "ariesjobportal.appspot.com",
